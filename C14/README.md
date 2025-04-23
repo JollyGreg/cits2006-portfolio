@@ -1,5 +1,7 @@
 # player_detector enabled door protection
 
+naming a program "startup.lua" means that it will be run automatically when the computer is turned on (i.e. the computer will run the program when the chunk is loaded).
+
 ## for your information
 Blocks required:
 ```
